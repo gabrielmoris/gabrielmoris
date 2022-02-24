@@ -3,17 +3,14 @@
 
 <a align="center" href="https://www.gabrielcmoris.com/" target="blank"><img align="center" src="https://onionimageboard.s3.amazonaws.com/portfolio/bust.svg" height="200" /></a><h3 >I’m a FrontEnd Developer.<br/> Always improving my skills</h3>
 
-<h2>My streak:</h2>
+<h2>Stats:</h2>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gabrielmoris&theme=tokyonight_duo&date_format=j%20M%5B%20Y%5D&background=ADAAB43C)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gabrielmoris&theme=tokyonight_duo&date_format=j%20M%5B%20Y%5D&background=ADAAB43C)](https://git.io/streak-stats) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielmoris)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2>Languages:</h2>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmoris)](https://github.com/anuraghazra/github-readme-stats)
 
-<h2>Stats</h2>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielmoris)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="left">Find me:</h3>
 
