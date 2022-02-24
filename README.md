@@ -5,6 +5,8 @@
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gabrielmoris&theme=tokyonight_duo&date_format=j%20M%5B%20Y%5D&background=ADAAB43C)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmoris)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <h3 align="left">Find me:</h3>
