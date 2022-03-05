@@ -10,7 +10,7 @@
  
 <div align="center">
    <img width="90%" src="https://activity-graph.herokuapp.com/graph?username=gabrielmoris&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" />
-<!--  ![Contribution](https://activity-graph.herokuapp.com/graph?username=gabrielmori&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true) -->
+<!--  ![Contribution](https://activity-graph.herokuapp.com/graph?username=gabrielmoris&bg_color=000000&color=708090&line=24292e&point=24292e&area=true&hide_border=true) -->
 </div>
 
 <h2 align="center">Languages</h2>
