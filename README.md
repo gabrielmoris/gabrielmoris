@@ -39,3 +39,8 @@
 <br><p align="centre"><b>You are the visitor number:</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{gabrielmoris}/count.svg" /></p> 
 <br></div>
+<div align="center">
+ 
+ ![Jokes Card](https://readme-jokes.vercel.app/api)
+ 
+ </div>
