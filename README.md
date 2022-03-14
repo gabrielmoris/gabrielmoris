@@ -35,9 +35,8 @@
 <div align="center">
 <a href="https://www.linkedin.com/in/gabrieltrompeta/" target="_blank">Linkedin</a>
  </div>
- <div align="center">
-<a href="gabrielcmoris@gmail.com" target="_blank">Gmail</a>   
-</div>
+ 
+ 
 <div align="center">
 <a href="https://www.gabrielcmoris.com/" target="_blank">My Portfolio</a>
 </div>
