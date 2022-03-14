@@ -33,7 +33,13 @@
 
 <h3 align="center">Find me</h3>
 <div align="center">
-<a href="https://www.linkedin.com/in/gabrieltrompeta/" target="_blank"><img src="https://cdn-icons.flaticon.com/png/512/3670/premium/3670045.png?token=exp=1646755089~hmac=76cd6d663d6018162f8ea1a8a2844606" height="80" /> </a>      <a href="gabrielcmoris@gmail.com" target="_blank"><img src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504727.png?token=exp=1646755141~hmac=c918934b8e8dcb9504107824c198d740" height="80" /></a>      <a href="https://www.gabrielcmoris.com/" target="_blank"><img src="https://cdn-icons.flaticon.com/png/512/3308/premium/3308395.png?token=exp=1646755222~hmac=5fdf299c0032ce3f8763a96ab400a1c2" height="80" /></a>
+<a href="https://www.linkedin.com/in/gabrieltrompeta/" target="_blank">Linkedin</a>
+ </div>
+ <div align="center">
+<a href="gabrielcmoris@gmail.com" target="_blank">Gmail</a>   
+</div>
+<div align="center">
+<a href="https://www.gabrielcmoris.com/" target="_blank">My Portfolio</a>
 </div>
 <div align="center">
 <br><p align="centre"><b>You are the visitor number:</b></p>  
