@@ -1,16 +1,55 @@
-<h1 align="center">Hello, I'm Gabriel C. Moris</h1>
+<h1 align="left">Hello, I'm Gabriel C. Moris</h1>
 
-<div align="center">
-<a align="center" href="https://www.gabrielcmoris.com/" target="blank"><img align="center" src="https://onionimageboard.s3.amazonaws.com/portfolio/bust.svg" height="200" /></a><h3 >I’m a FrontEnd Developer.<br/> Always improving my skills</h3>
+<div align="left">
+<a align="center" href="https://www.gabrielcmoris.com/" target="blank"><img align="center" src="https://onionimageboard.s3.amazonaws.com/portfolio/bust.svg" height="200" /></a><h5 >I’m a FrontEnd Developer.<br/> I am a passionate Frontend Developer</h5>
+
+ <table>
+  <thead>
+    <tr>
+      <th>
+        <h3>
+  Currently:
+ </h3>
+							<div align="left">
+ <ol>
+ <li>Learning: Typescript, React:(Next.js,Gatsby,create-react-app), React Native</li>
+  <li>Searching for Open Source Projects to contribute</li>
+  <li>Searching for a Job as a FrontEnd</li>
+								</ol></div>
+      </th>
+      <th>
+         <h3>
+  To Do List:
+ </h3>
+							<div align="left">
+ <ol>
+ <li>Learn: Angular, Vite, Webpack and React Native</li>
+  <li>Learn more languages: Python, C#, Rust</li>
+  <li>Improve my current Skills in React and Vue</li>
+ </ol>
+							</div>
+      </th>
+    </tr>
+  </thead>
+</table>
 </div>
- 
  <div align="center">
- <h2>Stats</h2>
- 
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielmoris)](https://github.com/anuraghazra/github-readme-stats)
- <h2>Languages</h2>
- 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmoris)](https://github.com/anuraghazra/github-readme-stats)
+ <table>
+  <thead>
+    <tr>
+      <th>
+        <a href="https://github.com/gabrielmoris">
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielmoris&show_icons=true&title_color=6F8FAF&bg_color=fff&hide_border=true&icon_color=6F8FAF&custom_title=Stats&count_private=true" />
+        </a>
+      </th>
+      <th>
+        <a href="https://github.com/gabrielmoris">
+          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmoris&layout=compact&title_color=6F8FAF&bg_color=fff&hide_border=true&icon_color=6F8FAF"  />
+        </a>
+      </th>
+    </tr>
+  </thead>
+</table>
 </div>
 
 <h3 align="center">Find me</h3>
