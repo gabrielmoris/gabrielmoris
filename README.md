@@ -1,7 +1,7 @@
 <h1 align="left">Hello, I'm Gabriel C. Moris</h1>
 
 <div align="left">
-<a align="center" href="https://www.gabrielcmoris.com/" target="blank"><img align="center" src="https://onionimageboard.s3.amazonaws.com/portfolio/bust.svg" height="200" /></a><h5 >I’m a FrontEnd Developer.<br/> I am a passionate Frontend Developer</h5>
+<a align="center" href="https://www.gabrielcmoris.com/" target="blank"><img align="center" src="https://onionimageboard.s3.amazonaws.com/portfolio/bust.svg" height="200" /></a><h1 >I'm a passionate Frontend Developer</h1>
 
  <table>
   <thead>
