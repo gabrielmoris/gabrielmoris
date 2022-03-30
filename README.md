@@ -12,7 +12,7 @@
  </h3>
 							<div align="left">
  <ol>
- <li>Learning: Typescript, React:(Next.js,Gatsby,create-react-app), React Native</li>
+ <li>Learning: Typescript, React:(Next.js,Gatsby,create-react-app), C#</li>
   <li>Searching for Open Source Projects to contribute</li>
   <li>Searching for a Job as a FrontEnd</li>
 								</ol></div>
@@ -24,7 +24,7 @@
 							<div align="left">
  <ol>
  <li>Learn: Angular, Vite, Webpack and React Native</li>
-  <li>Learn more languages: Python, C#, Rust</li>
+  <li>Learn more languages: Python, Rust</li>
   <li>Improve my current Skills in React and Vue</li>
  </ol>
 							</div>
