@@ -12,7 +12,7 @@
  </h3>
 							<div align="left">
  <ol>
- <li>Learning: Typescript, React:(Next.js,Gatsby,create-react-app)</li>
+ <li>Learning: Typescript, React:(Next.js,Gatsby,create-react-app), Vue3:(Nuxt, Vuex)</li>
   <li>Searching for Open Source Projects to contribute</li>
   <li>Searching for a Job as a FrontEnd</li>
 								</ol></div>
