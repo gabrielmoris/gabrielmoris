@@ -14,7 +14,7 @@
  <ol>
  <li>Learning: Typescript, React:(Next.js,Gatsby,create-react-app), Vue3:(Nuxt, Vuex)</li>
   <li>Searching for Open Source Projects to contribute</li>
-  <li>Searching for a Job as a FrontEnd</li>
+  <li>Currently working as a FrontEnd in meropa-reisen GmbH</li>
 								</ol></div>
       </th>
       <th>
