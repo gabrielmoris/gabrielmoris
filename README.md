@@ -12,7 +12,7 @@
  </h3>
 							<div align="left">
  <ol>
- <li>Learning: Typescript, React:(Next.js,Gatsby,create-react-app), Vue3:(Nuxt, Vuex)</li>
+ <li>Learning: Typescript, Vue3:(Nuxt3, Vuex), React Native, Docker</li>
   <li>Searching for Open Source Projects to contribute</li>
   <li>Currently working as a FrontEnd in Ameropa-reisen GmbH</li>
 								</ol></div>
@@ -23,9 +23,9 @@
  </h3>
 							<div align="left">
  <ol>
- <li>Learn: Angular, Vite, Webpack,React Native, Kubernetes and Docker</li>
-  <li>Learn more languages: Python, Rust</li>
-  <li>Improve my current Skills in React and Vue and keep learning C#</li>
+ <li>Learn: Angular, Vite, Webpack, Kubernetes and Docker</li>
+  <li>Learn more languages: Python, Rust and C#<</li>
+  <li>Improve my current Skills in React:(Next.js,Gatsby,create-react-app), and Vue/li>
  </ol>
 							</div>
       </th>
