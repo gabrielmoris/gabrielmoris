@@ -24,8 +24,8 @@
 							<div align="left">
  <ol>
  <li>Learn: Angular, Vite, Webpack, Kubernetes and Docker</li>
-  <li>Learn more languages: Python, Rust and C#<</li>
-  <li>Improve my current Skills in React:(Next.js,Gatsby,create-react-app), and Vue/li>
+  <li>Learn more languages: Python, Rust and C#</li>
+  <li>Improve my current Skills in React:(Next.js,Gatsby,create-react-app), and Vue</li>
  </ol>
 							</div>
       </th>
