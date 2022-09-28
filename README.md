@@ -54,7 +54,7 @@
 
 <h3 align="center">Find me</h3>
 <div align="center">
-<a href="https://www.linkedin.com/in/gabrieltrompeta/" target="_blank">Linkedin</a>
+<a href="https://www.linkedin.com/in/gabrielcmoris/" target="_blank">Linkedin</a>
  </div>
  
  
