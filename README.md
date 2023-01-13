@@ -86,7 +86,7 @@ I'm a creative person who loves challenges and finds a solution for any setback 
     <tr>
       <th>
         <a href="https://github.com/gabrielmoris">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielmoris&show_icons=true&title_color=6F8FAF&bg_color=fff&hide_border=true&icon_color=6F8FAF&custom_title=Stats&count_private=true" />
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielmoris&show_icons=true&title_color=6F8FAF&bg_color=fff&hide_border=true&icon_color=6F8FAF&custom_title=Stats&count_private=false" />
         </a>
       </th>
       <th>
