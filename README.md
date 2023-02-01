@@ -95,7 +95,7 @@ I'm a creative person who loves challenges and finds a solution for any setback 
         </a>
       </th>
     </tr> -->
-	  <tr><a href="https://app.daily.dev/gabrielcmoris"><img src="https://api.daily.dev/devcards/38a3ae66a3c34840b6e211ceb1ad5256.png?r=yb9" width="400" alt="Gabriel Chamorro Moris's Dev Card"/></a></tr>
+	  <tr><a href="https://app.daily.dev/gabrielcmoris"><img src="https://api.daily.dev/devcards/38a3ae66a3c34840b6e211ceb1ad5256.png?r=pb9" width="400" alt="Gabriel Chamorro Moris's Dev Card"/></a></tr>
   </thead>
 </table>
 </div>
