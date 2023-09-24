@@ -10,7 +10,7 @@ I'm a creative person who loves challenges and finds a solution for any setback 
 
 * 🌍  I'm based in Germany
 * 🖥️  See my portfolio at [Gabrielcmoris](http://www.gabrielcmoris.com)
-* 🧠  I'm learning Cypress, Typescript, Docker, AWS, and keep improving my skills with Vue.js (Nuxt 3), JavaScript, React, Node.js,
+* 🧠  I'm working with Cypress, Typescript, Docker, AWS, Vue.js (Nuxt 3), JavaScript, React, Node.js...
 * 🤝  I'm open to collaborating on Open source projects
 
 ### Skills
