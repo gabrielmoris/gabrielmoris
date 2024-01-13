@@ -59,19 +59,19 @@ I'm a creative person who loves challenges and finds a solution for any setback 
  </h3>
 							<div align="left">
  <ol>
- <li>Learning: Typescript, Vue3:(Nuxt3, Vuex), React Native, Bun.js</li>
+ <li>Working with: Typescript, Vue3:(Nuxt3, Vuex), React (Next.js)</li>
   <li>Searching for Open Source Projects to contribute</li>
   <li>Currently working as a FrontEnd in Ameropa-reisen GmbH</li>
 								</ol></div>
       </th>
       <th>
          <h3>
-  To Do List:
+  Learning:
  </h3>
 							<div align="left">
  <ol>
- <li>Learn: Angular, Vite, Webpack, Kubernetes and Docker</li>
-  <li>Learn more languages: Python, Rust</li>
+ <li>Techs: React Native, Webpack, Design(figma), Kubernetes and Docker</li>
+  <li>Languages:  Rust</li>
   <li>Improve my current Skills in React:(Next.js), and Bun.js</li>
  </ol>
 							</div>
