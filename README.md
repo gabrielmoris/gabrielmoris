@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Gabriel C Moris
 =======================================================================================================================================
 
-Frontend Developer at Ameropa Reisen GmbH
+Software Engineer at Smartseer GmbH
 -----------------------------------------
 <div align="left">
 <a align="center" href="https://www.gabrielcmoris.com/" target="blank"><img align="center" src="https://onionimageboard.s3.amazonaws.com/portfolio/bust.svg" height="200" /></a><h1 >I'm a passionate Frontend Developer</h1>
